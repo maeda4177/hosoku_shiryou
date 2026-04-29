@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "B3F52rh3meA",
+        "title": "日本株爆上げ時代に乗り遅れる人の末路。お宝銘柄を見抜く神手順について解説します！",
+        "thumbnail": "https://img.youtube.com/vi/B3F52rh3meA/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:ce09a256-2b8c-4c3e-8200-8ecb1f1b1964",
+        "publishedDate": "2026/04/29"
+    },
+    {
         "id": "vrFgFigCmi0",
         "title": "【資本主義の末路】家賃70万で中間層が崩壊。アメリカの残酷すぎる現実と日本への波及について解説します！",
         "thumbnail": "https://img.youtube.com/vi/vrFgFigCmi0/maxresdefault.jpg",
@@ -110,14 +118,6 @@ const videoData = [
         "description": "",
         "downloadUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:b92ed7ff-33eb-462f-b742-50b35f559b1f",
         "publishedDate": "2026/04/15"
-    },
-    {
-        "id": "RUPgIBj2qXU",
-        "title": "【衝撃の真実】南米の経済成長を止める「絶望的な地形」と、世界地図を塗り替える中国の巨大インフラ計画",
-        "thumbnail": "https://img.youtube.com/vi/RUPgIBj2qXU/maxresdefault.jpg",
-        "description": "",
-        "downloadUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:e8efa462-1bef-4896-b1b5-ac8800fc3811",
-        "publishedDate": "2026/04/14"
     }
 ];
 
