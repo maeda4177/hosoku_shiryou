@@ -1,5 +1,21 @@
 const videoData = [
     {
+        "id": "Qs3IvMF7mlg",
+        "title": "視聴者の皆さんに大事なお話があります【ティザー動画】",
+        "thumbnail": "https://img.youtube.com/vi/Qs3IvMF7mlg/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:b5ae510e-0ba0-47d8-a219-35c9885eb831",
+        "publishedDate": "2026/04/30"
+    },
+    {
+        "id": "AOCzaYvmb90",
+        "title": "インフレによる資産の目減りを対策！富裕層が密かに実践する資産防衛術について解説します！",
+        "thumbnail": "https://img.youtube.com/vi/AOCzaYvmb90/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:b5ae510e-0ba0-47d8-a219-35c9885eb831",
+        "publishedDate": "2026/04/30"
+    },
+    {
         "id": "B3F52rh3meA",
         "title": "日本株爆上げ時代に乗り遅れる人の末路。お宝銘柄を見抜く神手順について解説します！",
         "thumbnail": "https://img.youtube.com/vi/B3F52rh3meA/maxresdefault.jpg",
@@ -102,22 +118,6 @@ const videoData = [
         "description": "",
         "downloadUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:93945901-fba1-46b6-8f19-ae402d79d2da",
         "publishedDate": "2026/04/17"
-    },
-    {
-        "id": "bh4bzvDqA_8",
-        "title": "【40代〜60代必見】現金を銀行に預けたままだと手遅れになります…歴史的暴落を圧倒的なチャンスに変える投資ルールを解説します！",
-        "thumbnail": "https://img.youtube.com/vi/bh4bzvDqA_8/maxresdefault.jpg",
-        "description": "",
-        "downloadUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:88e4509f-48e3-452b-9570-7fa2556219f2",
-        "publishedDate": "2026/04/16"
-    },
-    {
-        "id": "Ocv2HdSh2R4",
-        "title": "思考停止のインデックス投資は危険？大衆心理の逆を突く攻守のPER戦略を徹底解説！",
-        "thumbnail": "https://img.youtube.com/vi/Ocv2HdSh2R4/maxresdefault.jpg",
-        "description": "",
-        "downloadUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:b92ed7ff-33eb-462f-b742-50b35f559b1f",
-        "publishedDate": "2026/04/15"
     }
 ];
 
