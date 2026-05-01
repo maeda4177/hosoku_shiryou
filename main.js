@@ -25,7 +25,7 @@ const videoData = [
     },
     {
         "id": "B3F52rh3meA",
-        "title": "日本株爆上げ時代に乗り遅れる人の末路。お宝銘銘柄を見抜く神手順について解説します！",
+        "title": "日本株爆上げ時代に乗り遅れる人の末路。お宝銘柄を見抜く神手順について解説します！",
         "thumbnail": "https://img.youtube.com/vi/B3F52rh3meA/maxresdefault.jpg",
         "description": "",
         "downloadUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:ce09a256-2b8c-4c3e-8200-8ecb1f1b1964",
