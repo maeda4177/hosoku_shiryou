@@ -127,7 +127,7 @@ function createVideoCard(video) {
     
     const label = "DOWNLOAD DATA";
     const btnClass = "download-btn";
-    const fallbackUrl = "https://tsumugi-lp.vercel.app";
+    const fallbackUrl = "https://tumugi-lp.vercel.app";
     const finalUrl = (video.downloadUrl && video.downloadUrl !== "#") ? video.downloadUrl : fallbackUrl;
 
     card.innerHTML = `
