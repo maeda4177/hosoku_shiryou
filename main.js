@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "_8zZcsbJP7s",
+        "title": "【警告】世界恐慌は過去ではない。数字が証明する借金バブル崩壊のシナリオを解説！",
+        "thumbnail": "https://img.youtube.com/vi/_8zZcsbJP7s/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/1vvZe9LS6-clj3saXnzjJzPP6JCASX-__/view?usp=drive_link",
+        "publishedDate": "2026/05/01"
+    },
+    {
         "id": "Qs3IvMF7mlg",
         "title": "視聴者の皆さんに大事なお話があります【ティザー動画】",
         "thumbnail": "https://img.youtube.com/vi/Qs3IvMF7mlg/maxresdefault.jpg",
@@ -110,14 +118,6 @@ const videoData = [
         "description": "",
         "downloadUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:28b46fbf-ccaf-418d-bbbc-d6a948abd53a",
         "publishedDate": "2026/04/18"
-    },
-    {
-        "id": "6WsgJLGhfnY",
-        "title": "40代・50代は絶対に見て！格差が急拡大する日本で持たざる者にならないための投資の絶対ルールを教えます！",
-        "thumbnail": "https://img.youtube.com/vi/6WsgJLGhfnY/maxresdefault.jpg",
-        "description": "",
-        "downloadUrl": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:93945901-fba1-46b6-8f19-ae402d79d2da",
-        "publishedDate": "2026/04/17"
     }
 ];
 
