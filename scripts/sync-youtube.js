@@ -153,17 +153,36 @@ async function sync() {
             };
         });
 
-        // 日付降順でソート
-        finalVideos.sort((a, b) => new Date(b.publishedDate) - new Date(a.publishedDate));
-
-        const videoDataString = `const videoData = ${JSON.stringify(finalVideos, null, 4)};`;
-
         const content = fs.readFileSync(TARGET_FILE, 'utf8');
-        // $などの記号による置換不具合を防ぐため関数を使用
+        
+        // 既存のデータを抽出
+        const existingDataMatch = content.match(/const videoData = (\[[\s\S]*?\]);/);
+        let mergedVideos = finalVideos;
+
+        if (existingDataMatch) {
+            try {
+                const existingVideos = JSON.parse(existingDataMatch[1]);
+                // IDをキーにしてマージ（新しいデータを優先）
+                const videoMap = new Map();
+                // まず既存のデータをセット
+                existingVideos.forEach(v => videoMap.set(v.id, v));
+                // 新しいデータを上書きセット
+                finalVideos.forEach(v => videoMap.set(v.id, v));
+                
+                mergedVideos = Array.from(videoMap.values());
+            } catch (e) {
+                console.warn('Could not parse existing videoData, falling back to new data only.');
+            }
+        }
+
+        // 日付降順でソート
+        mergedVideos.sort((a, b) => new Date(b.publishedDate) - new Date(a.publishedDate));
+
+        const videoDataString = `const videoData = ${JSON.stringify(mergedVideos, null, 4)};`;
         const updatedContent = content.replace(/const videoData = \[[\s\S]*?\];/, () => videoDataString);
         
         fs.writeFileSync(TARGET_FILE, updatedContent);
-        console.log('Successfully updated main.js with merged data.');
+        console.log(`Successfully updated main.js. Total videos: ${mergedVideos.length}`);
         
     } catch (error) {
         console.error('Error syncing:', error.message);
