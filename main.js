@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "lOfxBo4O8tw",
+        "title": "【家賃奴隷と医療崩壊】優秀な国民からカナダを脱出する異常事態。沈みゆく国家システムから資産と命を守る方法を解説！",
+        "thumbnail": "https://img.youtube.com/vi/lOfxBo4O8tw/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/1NCEk5PQbQ3ofS5auX6AhRss-UIOPcJxy/view?usp=drive_link",
+        "publishedDate": "2026/05/02"
+    },
+    {
         "id": "_8zZcsbJP7s",
         "title": "【警告】世界恐慌は過去ではない。数字が証明する借金バブル崩壊のシナリオを解説！",
         "thumbnail": "https://img.youtube.com/vi/_8zZcsbJP7s/maxresdefault.jpg",
