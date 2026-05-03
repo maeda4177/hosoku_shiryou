@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "hvHb8Vm4BwY",
+        "title": "【残酷な真実】人間関係の損切りと感情のメタボ解消で資本主義の搾取から抜け出す方法を解説します！",
+        "thumbnail": "https://img.youtube.com/vi/hvHb8Vm4BwY/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/1t-npLxMyFOd6bX-YumipciRiaDZU544O/view?usp=drive_link",
+        "publishedDate": "2026/05/03"
+    },
+    {
         "id": "lOfxBo4O8tw",
         "title": "【家賃奴隷と医療崩壊】優秀な国民からカナダを脱出する異常事態。沈みゆく国家システムから資産と命を守る方法を解説！",
         "thumbnail": "https://img.youtube.com/vi/lOfxBo4O8tw/maxresdefault.jpg",
