@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "S_RBijR4s2w",
+        "title": "日本円の崩壊…利上げも介入もできず日本は詰みます",
+        "thumbnail": "https://img.youtube.com/vi/S_RBijR4s2w/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/1WJQgOxHxe_mPrF7CxILliPk7yODpmbgz/view?usp=drive_link",
+        "publishedDate": "2026/05/04"
+    },
+    {
         "id": "hvHb8Vm4BwY",
         "title": "【残酷な真実】人間関係の損切りと感情のメタボ解消で資本主義の搾取から抜け出す方法を解説します！",
         "thumbnail": "https://img.youtube.com/vi/hvHb8Vm4BwY/maxresdefault.jpg",
