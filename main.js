@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "j1TPKeHIA6M",
+        "title": "資産防衛の残酷な真実!?最強の核保有国パキスタンが「数十億ドル」で国を売る理由について紹介します！",
+        "thumbnail": "https://img.youtube.com/vi/j1TPKeHIA6M/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/1adPv-4jki4VFUegLTkQCfr4ph6npuBya/view?usp=sharing",
+        "publishedDate": "2026/05/05"
+    },
+    {
         "id": "S_RBijR4s2w",
         "title": "日本円の崩壊…利上げも介入もできず日本は詰みます",
         "thumbnail": "https://img.youtube.com/vi/S_RBijR4s2w/maxresdefault.jpg",
