@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "xFP6J2Odzvc",
+        "title": "世界最強に見えるアメリカ経済の裏側!?報道されない「静かなる革命（モラルハザード）」が起きている理由を解説！",
+        "thumbnail": "https://img.youtube.com/vi/xFP6J2Odzvc/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/19CIHq5jRGkmzLJvmx5fLj-eBc9wgNvq2/view?usp=drive_link",
+        "publishedDate": "2026/05/06"
+    },
+    {
         "id": "j1TPKeHIA6M",
         "title": "資産防衛の残酷な真実!?最強の核保有国パキスタンが「数十億ドル」で国を売る理由について紹介します！",
         "thumbnail": "https://img.youtube.com/vi/j1TPKeHIA6M/maxresdefault.jpg",
