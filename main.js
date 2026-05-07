@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "22NR4lGWRZk",
+        "title": "インフレという「静かな強盗」が進行中！？実質的な購買力は日々奪われている現実を紹介します！",
+        "thumbnail": "https://img.youtube.com/vi/22NR4lGWRZk/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/1y9jcEMX1cxzedMWGtEGrEtFRG-hpL5O_/view?usp=drive_link",
+        "publishedDate": "2026/05/07"
+    },
+    {
         "id": "xFP6J2Odzvc",
         "title": "世界最強に見えるアメリカ経済の裏側!?報道されない「静かなる革命（モラルハザード）」が起きている理由を解説！",
         "thumbnail": "https://img.youtube.com/vi/xFP6J2Odzvc/maxresdefault.jpg",
