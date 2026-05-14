@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "bE1onwDmjlQ",
+        "title": "【2026年の時限爆弾】メガバンクが隠す「360兆円の毒杯」とステルス没収の正体。あなたの預金はすでに海外へ流出している…",
+        "thumbnail": "https://img.youtube.com/vi/bE1onwDmjlQ/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/1nFQ411It8A2x7fEhJ3ix3BM4PNA7MUCe/view?usp=drive_link",
+        "publishedDate": "2026/05/14"
+    },
+    {
         "id": "qG8Jy5fve5Q",
         "title": "S&amp;P500への思考停止の投資は危険。米国の若者を食いつぶす絶望の人口負債と米国株信仰の罠を解説！",
         "thumbnail": "https://img.youtube.com/vi/qG8Jy5fve5Q/maxresdefault.jpg",
