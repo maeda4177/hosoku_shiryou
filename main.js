@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "rKUybL5nzfU",
+        "title": "【米国株の終焉】S&amp;P500信者が知らない&quot;カツアゲ資本主義&quot;の正体。50年ローンと大量解雇が告げる「超大国の末路」",
+        "thumbnail": "https://img.youtube.com/vi/rKUybL5nzfU/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/1AkWAv5K_TqFYp2-i4eAudhrhvBo4uAh6/view?usp=drive_link",
+        "publishedDate": "2026/05/15"
+    },
+    {
         "id": "bE1onwDmjlQ",
         "title": "【2026年の時限爆弾】メガバンクが隠す「360兆円の毒杯」とステルス没収の正体。あなたの預金はすでに海外へ流出している…",
         "thumbnail": "https://img.youtube.com/vi/bE1onwDmjlQ/maxresdefault.jpg",
