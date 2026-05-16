@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "Dcae-yKSVLo",
+        "title": "【米国の闇】世界一の産油国が「石油を爆買い」する残酷な真実。投資家が知るべき『帝国のサヤ抜き』とは？",
+        "thumbnail": "https://img.youtube.com/vi/Dcae-yKSVLo/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/1iDbBIcaTlUC1dqORLdafJnZ8qeFrZ8kF/view?usp=drive_link",
+        "publishedDate": "2026/05/16"
+    },
+    {
         "id": "rKUybL5nzfU",
         "title": "【米国株の終焉】S&amp;P500信者が知らない&quot;カツアゲ資本主義&quot;の正体。50年ローンと大量解雇が告げる「超大国の末路」",
         "thumbnail": "https://img.youtube.com/vi/rKUybL5nzfU/maxresdefault.jpg",
