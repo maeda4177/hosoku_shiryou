@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "ZkfQNfeXgMM",
+        "title": "詰みの金融構造!?中国経済の沈みゆく致命的リスクについて解説！",
+        "thumbnail": "https://img.youtube.com/vi/ZkfQNfeXgMM/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/11z2NFC4cGLjlzv7Il6lHIRtHEWM497eG/view?usp=drive_link",
+        "publishedDate": "2026/05/17"
+    },
+    {
         "id": "Dcae-yKSVLo",
         "title": "【米国の闇】世界一の産油国が「石油を爆買い」する残酷な真実。投資家が知るべき『帝国のサヤ抜き』とは？",
         "thumbnail": "https://img.youtube.com/vi/Dcae-yKSVLo/maxresdefault.jpg",
