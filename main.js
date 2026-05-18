@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "4m4j3tDber0",
+        "title": "アメリカ日常生活が完全崩壊…中産階級2000万人が脱落した背景について紹介！",
+        "thumbnail": "https://img.youtube.com/vi/4m4j3tDber0/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/1y-AmkL1jA_4yHN8cZgXGkqL9VaQSRa4X/view?usp=drive_link",
+        "publishedDate": "2026/05/18"
+    },
+    {
         "id": "ZkfQNfeXgMM",
         "title": "詰みの金融構造!?中国経済の沈みゆく致命的リスクについて解説！",
         "thumbnail": "https://img.youtube.com/vi/ZkfQNfeXgMM/maxresdefault.jpg",
