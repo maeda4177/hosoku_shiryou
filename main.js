@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "ISVS2g1VcDY",
+        "title": "約半数がリボ払い？高所得層もヤバイアメリカ債務の実態とは？",
+        "thumbnail": "https://img.youtube.com/vi/ISVS2g1VcDY/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/05/19"
+    },
+    {
         "id": "4m4j3tDber0",
         "title": "アメリカ日常生活が完全崩壊…中産階級2000万人が脱落した背景について紹介！",
         "thumbnail": "https://img.youtube.com/vi/4m4j3tDber0/maxresdefault.jpg",
