@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "XMhXgUe3UXQ",
+        "title": "「中国＝IT先進国」は嘘！？メディアが隠す&quot;デジタル・ハリボテ&quot;の闇と中国経済崩壊の実態を解説！",
+        "thumbnail": "https://img.youtube.com/vi/XMhXgUe3UXQ/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://docs.google.com/presentation/d/1qLLJckeAKF88B2XiQAgFElzkVODWLBPf/edit?usp=drive_link&ouid=100224871210201432380&rtpof=true&sd=true",
+        "publishedDate": "2026/05/21"
+    },
+    {
         "id": "uj4j0pZBnTU",
         "title": "「米国経済は絶好調」は嘘。大本営メディアが隠す『ハリボテ雇用』と『ゾンビ消費』の不都合な真実を解説",
         "thumbnail": "https://img.youtube.com/vi/uj4j0pZBnTU/maxresdefault.jpg",
