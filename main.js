@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "G_Y7KZtjlYI",
+        "title": "中国経済崩壊が日本に悪影響を与える理由を解説！",
+        "thumbnail": "https://img.youtube.com/vi/G_Y7KZtjlYI/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/1sh4J-Df8PpLsO_vZlSaMDx5uobH30Fhu/view?usp=drive_link",
+        "publishedDate": "2026/05/22"
+    },
+    {
         "id": "XMhXgUe3UXQ",
         "title": "「中国＝IT先進国」は嘘！？メディアが隠す&quot;デジタル・ハリボテ&quot;の闇と中国経済崩壊の実態を解説！",
         "thumbnail": "https://img.youtube.com/vi/XMhXgUe3UXQ/maxresdefault.jpg",
