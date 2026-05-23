@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "R4ns7xABY_Y",
+        "title": "【韓国経済】半導体株に広がる違和感…国民配当案が市場に与える影響とは",
+        "thumbnail": "https://img.youtube.com/vi/R4ns7xABY_Y/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://docs.google.com/presentation/d/1NJPOntYf4mdSO9-_xoM_-f9tUMNQQ5DL/edit?usp=drive_link&ouid=105887392863915958104&rtpof=true&sd=true",
+        "publishedDate": "2026/05/23"
+    },
+    {
         "id": "G_Y7KZtjlYI",
         "title": "中国経済崩壊が日本に悪影響を与える理由を解説！",
         "thumbnail": "https://img.youtube.com/vi/G_Y7KZtjlYI/maxresdefault.jpg",
