@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "mr58rMxtQ10",
+        "title": "中国経済はなぜ持ちこたえるのか？巨額債務の裏にある国家構造",
+        "thumbnail": "https://img.youtube.com/vi/mr58rMxtQ10/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://docs.google.com/presentation/d/1U6WlrcxxqutL6X3qbfJN4m7n8YMLQcpz/edit?usp=drive_link&ouid=105887392863915958104&rtpof=true&sd=true",
+        "publishedDate": "2026/05/24"
+    },
+    {
         "id": "R4ns7xABY_Y",
         "title": "【韓国経済】半導体株に広がる違和感…国民配当案が市場に与える影響とは",
         "thumbnail": "https://img.youtube.com/vi/R4ns7xABY_Y/maxresdefault.jpg",
