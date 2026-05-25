@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "wUExvrv0KIg",
+        "title": "日本経済はどこへ向かうのか？債務膨張が招く“次の危機”",
+        "thumbnail": "https://img.youtube.com/vi/wUExvrv0KIg/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://docs.google.com/presentation/d/1LBr7U_quhLO-FMQX4_RKNASaRNTBlebl/edit?usp=drive_link&ouid=105887392863915958104&rtpof=true&sd=true",
+        "publishedDate": "2026/05/25"
+    },
+    {
         "id": "mr58rMxtQ10",
         "title": "中国経済はなぜ持ちこたえるのか？巨額債務の裏にある国家構造",
         "thumbnail": "https://img.youtube.com/vi/mr58rMxtQ10/maxresdefault.jpg",
