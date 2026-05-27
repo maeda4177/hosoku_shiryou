@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "EukbKYoPjbU",
+        "title": "アジア通貨危機で生き残る対策とは!?中東情勢悪化の生き残り方を解説！",
+        "thumbnail": "https://img.youtube.com/vi/EukbKYoPjbU/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "https://drive.google.com/file/d/16p2lr9Z9QRpVQgYy9rYeaaI26jaD2wJT/view?usp=drive_link",
+        "publishedDate": "2026/05/27"
+    },
+    {
         "id": "wUExvrv0KIg",
         "title": "日本経済はどこへ向かうのか？債務膨張が招く“次の危機”",
         "thumbnail": "https://img.youtube.com/vi/wUExvrv0KIg/maxresdefault.jpg",
