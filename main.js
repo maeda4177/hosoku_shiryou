@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "QzdVqwHI04Y",
+        "title": "【1983年以来の大暴落】2026年 金融最終戦争!?ポンジ国家の崩壊と資産の方舟について紹介！",
+        "thumbnail": "https://img.youtube.com/vi/QzdVqwHI04Y/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/05/29"
+    },
+    {
         "id": "EukbKYoPjbU",
         "title": "アジア通貨危機で生き残る対策とは!?中東情勢悪化の生き残り方を解説！",
         "thumbnail": "https://img.youtube.com/vi/EukbKYoPjbU/maxresdefault.jpg",
