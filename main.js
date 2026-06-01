@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "wXaVGQ_F2EU",
+        "title": "格付け機関が警告！リーマン前と酷似した大暴落サインとは",
+        "thumbnail": "https://img.youtube.com/vi/wXaVGQ_F2EU/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/01"
+    },
+    {
         "id": "QzdVqwHI04Y",
         "title": "【1983年以来の大暴落】2026年 金融最終戦争!?ポンジ国家の崩壊と資産の方舟について紹介！",
         "thumbnail": "https://img.youtube.com/vi/QzdVqwHI04Y/maxresdefault.jpg",
