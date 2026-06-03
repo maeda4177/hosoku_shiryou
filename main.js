@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "p72DK0k_6T4",
+        "title": "韓国市場がヤバすぎる1ドル1400ウォン突破で完全に崩壊へ向かう",
+        "thumbnail": "https://img.youtube.com/vi/p72DK0k_6T4/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/03"
+    },
+    {
         "id": "wXaVGQ_F2EU",
         "title": "格付け機関が警告！リーマン前と酷似した大暴落サインとは",
         "thumbnail": "https://img.youtube.com/vi/wXaVGQ_F2EU/maxresdefault.jpg",
