@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "7cH5F2MF05g",
+        "title": "世界恐慌の原因はコレ！インデックス投資だけでは資産を守れない理由を解説！",
+        "thumbnail": "https://img.youtube.com/vi/7cH5F2MF05g/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/05"
+    },
+    {
         "id": "p72DK0k_6T4",
         "title": "韓国市場がヤバすぎる1ドル1400ウォン突破で完全に崩壊へ向かう",
         "thumbnail": "https://img.youtube.com/vi/p72DK0k_6T4/maxresdefault.jpg",
