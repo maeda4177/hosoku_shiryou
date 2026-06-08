@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "nmJoKmZMyNM",
+        "title": "現代における預金封鎖から資産を守る方法を教えます",
+        "thumbnail": "https://img.youtube.com/vi/nmJoKmZMyNM/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/08"
+    },
+    {
         "id": "7cH5F2MF05g",
         "title": "世界恐慌の原因はコレ！インデックス投資だけでは資産を守れない理由を解説！",
         "thumbnail": "https://img.youtube.com/vi/7cH5F2MF05g/maxresdefault.jpg",
