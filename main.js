@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "Sfn9CDDeCeQ",
+        "title": "歴史は繰り返す？1930年代と現在の奇怪な一致について解説します！",
+        "thumbnail": "https://img.youtube.com/vi/Sfn9CDDeCeQ/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/10"
+    },
+    {
         "id": "nmJoKmZMyNM",
         "title": "現代における預金封鎖から資産を守る方法を教えます",
         "thumbnail": "https://img.youtube.com/vi/nmJoKmZMyNM/maxresdefault.jpg",
