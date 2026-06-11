@@ -12,7 +12,7 @@ const videoData = [
         "title": "現代における預金封鎖から資産を守る方法を教えます",
         "thumbnail": "https://img.youtube.com/vi/nmJoKmZMyNM/maxresdefault.jpg",
         "description": "",
-        "downloadUrl": "#",
+        "downloadUrl": "https://drive.google.com/file/d/1psSQz5GcYmcTf8yoj9cOmQbW4Sz7VSZi/view?usp=drive_link",
         "publishedDate": "2026/06/08"
     },
     {
@@ -20,7 +20,7 @@ const videoData = [
         "title": "世界恐慌の原因はコレ！インデックス投資だけでは資産を守れない理由を解説！",
         "thumbnail": "https://img.youtube.com/vi/7cH5F2MF05g/maxresdefault.jpg",
         "description": "",
-        "downloadUrl": "#",
+        "downloadUrl": "https://drive.google.com/file/d/1fiiIgbphEb8JmnWyk3GbM9HyYXqkce-u/view?usp=drive_link",
         "publishedDate": "2026/06/05"
     },
     {
@@ -28,7 +28,7 @@ const videoData = [
         "title": "韓国市場がヤバすぎる1ドル1400ウォン突破で完全に崩壊へ向かう",
         "thumbnail": "https://img.youtube.com/vi/p72DK0k_6T4/maxresdefault.jpg",
         "description": "",
-        "downloadUrl": "#",
+        "downloadUrl": "https://drive.google.com/file/d/1TmVQ9Isrz4vNqLjtRT-lsxCZEhWmMFW8/view?usp=drive_link",
         "publishedDate": "2026/06/03"
     },
     {
@@ -36,7 +36,7 @@ const videoData = [
         "title": "格付け機関が警告！リーマン前と酷似した大暴落サインとは",
         "thumbnail": "https://img.youtube.com/vi/wXaVGQ_F2EU/maxresdefault.jpg",
         "description": "",
-        "downloadUrl": "#",
+        "downloadUrl": "https://drive.google.com/file/d/1cNgmySLG0g5KRR_gB0njFPA3OEBOGVqd/view?usp=drive_link",
         "publishedDate": "2026/06/01"
     },
     {
@@ -44,7 +44,7 @@ const videoData = [
         "title": "【1983年以来の大暴落】2026年 金融最終戦争!?ポンジ国家の崩壊と資産の方舟について紹介！",
         "thumbnail": "https://img.youtube.com/vi/QzdVqwHI04Y/maxresdefault.jpg",
         "description": "",
-        "downloadUrl": "#",
+        "downloadUrl": "https://drive.google.com/file/d/16p2lr9Z9QRpVQgYy9rYeaaI26jaD2wJT/view?usp=drive_link",
         "publishedDate": "2026/05/29"
     },
     {
@@ -52,7 +52,7 @@ const videoData = [
         "title": "アジア通貨危機で生き残る対策とは!?中東情勢悪化の生き残り方を解説！",
         "thumbnail": "https://img.youtube.com/vi/EukbKYoPjbU/maxresdefault.jpg",
         "description": "",
-        "downloadUrl": "https://drive.google.com/file/d/16p2lr9Z9QRpVQgYy9rYeaaI26jaD2wJT/view?usp=drive_link",
+        "downloadUrl": "https://drive.google.com/file/d/1CzttiXS_rZAfqXXck5MmW5rqwN1ZieyR/view?usp=drive_link",
         "publishedDate": "2026/05/27"
     },
     {
