@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "R8lAylnhtqI",
+        "title": "31年ぶりの水準!?日銀が利上げによって日本経済に起こることとは？",
+        "thumbnail": "https://img.youtube.com/vi/R8lAylnhtqI/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/15"
+    },
+    {
         "id": "G_3ESob8PlY",
         "title": "中国経済はデフレ地獄で完全に終焉を迎えています",
         "thumbnail": "https://img.youtube.com/vi/G_3ESob8PlY/maxresdefault.jpg",
