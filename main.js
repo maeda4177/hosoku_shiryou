@@ -525,10 +525,17 @@ function createVideoCard(video) {
     const card = document.createElement('article');
     card.className = 'card';
     
-    const label = "DOWNLOAD DATA";
-    const btnClass = "download-btn";
-    const fallbackUrl = "https://tumugi-lp.vercel.app";
-    const finalUrl = (video.downloadUrl && video.downloadUrl !== "#") ? video.downloadUrl : fallbackUrl;
+    const hasDownloadUrl = video.downloadUrl && video.downloadUrl !== "#";
+    const footerHtml = hasDownloadUrl ? `
+        <div class="card-footer">
+            <a href="${video.downloadUrl}" 
+               class="download-btn" 
+               target="_blank"
+               rel="noopener noreferrer">
+               DOWNLOAD DATA
+            </a>
+        </div>
+    ` : '';
 
     card.innerHTML = `
         <div class="thumbnail-wrapper">
@@ -541,14 +548,7 @@ function createVideoCard(video) {
             <h3>${video.title}</h3>
             <p>${video.description}</p>
         </div>
-        <div class="card-footer">
-            <a href="${finalUrl}" 
-               class="${btnClass}" 
-               target="_blank"
-               rel="noopener noreferrer">
-               ${label}
-            </a>
-        </div>
+        ${footerHtml}
     `;
     
     return card;
