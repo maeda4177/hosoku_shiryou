@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "_jl-WUM1Ir4",
+        "title": "インフレ地獄で貯蓄の格差が拡大する現実を解説します",
+        "thumbnail": "https://img.youtube.com/vi/_jl-WUM1Ir4/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/17"
+    },
+    {
         "id": "R8lAylnhtqI",
         "title": "31年ぶりの水準!?日銀が利上げによって日本経済に起こることとは？",
         "thumbnail": "https://img.youtube.com/vi/R8lAylnhtqI/maxresdefault.jpg",
