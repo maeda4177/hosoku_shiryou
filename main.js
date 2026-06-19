@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "bYWXOW32XoA",
+        "title": "【世界恐慌】株価89%暴落の真実。歴史が警告する次に破産する人の共通点とは",
+        "thumbnail": "https://img.youtube.com/vi/bYWXOW32XoA/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/19"
+    },
+    {
         "id": "_jl-WUM1Ir4",
         "title": "インフレ地獄で貯蓄の格差が拡大する現実を解説します",
         "thumbnail": "https://img.youtube.com/vi/_jl-WUM1Ir4/maxresdefault.jpg",
