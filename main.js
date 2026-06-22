@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "AW_MTq_-4Zo",
+        "title": "【資産防衛】脱ドルが進む現在でまだ銀行預金している人は詰みます。",
+        "thumbnail": "https://img.youtube.com/vi/AW_MTq_-4Zo/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/22"
+    },
+    {
         "id": "bYWXOW32XoA",
         "title": "【世界恐慌】株価89%暴落の真実。歴史が警告する次に破産する人の共通点とは",
         "thumbnail": "https://img.youtube.com/vi/bYWXOW32XoA/maxresdefault.jpg",
