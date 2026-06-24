@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "MS-P_Dyib0E",
+        "title": "【警告】現金を残さず新NISAに全ツッパする「全裸NISA」の末路…。AIと機関投資家が仕掛ける2026年大暴落から資産を守る防衛策",
+        "thumbnail": "https://img.youtube.com/vi/MS-P_Dyib0E/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/24"
+    },
+    {
         "id": "AW_MTq_-4Zo",
         "title": "【資産防衛】脱ドルが進む現在でまだ銀行預金している人は詰みます。",
         "thumbnail": "https://img.youtube.com/vi/AW_MTq_-4Zo/maxresdefault.jpg",
