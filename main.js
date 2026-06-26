@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "IdrHivsg37s",
+        "title": "日銀の利上げで不動産バブル崩壊へ。金利上昇が投資家に与える影響とは",
+        "thumbnail": "https://img.youtube.com/vi/IdrHivsg37s/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/26"
+    },
+    {
         "id": "MS-P_Dyib0E",
         "title": "【警告】現金を残さず新NISAに全ツッパする「全裸NISA」の末路…。AIと機関投資家が仕掛ける2026年大暴落から資産を守る防衛策",
         "thumbnail": "https://img.youtube.com/vi/MS-P_Dyib0E/maxresdefault.jpg",
