@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "2nJ-OyFYxl4",
+        "title": "米国の実態を知らずに投資している思考停止の常識について紹介します！",
+        "thumbnail": "https://img.youtube.com/vi/2nJ-OyFYxl4/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/06/29"
+    },
+    {
         "id": "IdrHivsg37s",
         "title": "日銀の利上げで不動産バブル崩壊へ。金利上昇が投資家に与える影響とは",
         "thumbnail": "https://img.youtube.com/vi/IdrHivsg37s/maxresdefault.jpg",
