@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "T5-TQDp4XFc",
+        "title": "【緊急暴露】9割の投資家が気づかない「官製ノイズ」の罠！プロだけが知る日銀・FRBの裏側と本当の投資チャンス",
+        "thumbnail": "https://img.youtube.com/vi/T5-TQDp4XFc/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/01"
+    },
+    {
         "id": "2nJ-OyFYxl4",
         "title": "米国の実態を知らずに投資している思考停止の常識について紹介します！",
         "thumbnail": "https://img.youtube.com/vi/2nJ-OyFYxl4/maxresdefault.jpg",
