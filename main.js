@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "w6Op539flbw",
+        "title": "【警告】キオクシア「利益率70%」の罠！ニュースを信じて高値掴みする「AI養分」の悲惨な末路",
+        "thumbnail": "https://img.youtube.com/vi/w6Op539flbw/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/03"
+    },
+    {
         "id": "T5-TQDp4XFc",
         "title": "【緊急暴露】9割の投資家が気づかない「官製ノイズ」の罠！プロだけが知る日銀・FRBの裏側と本当の投資チャンス",
         "thumbnail": "https://img.youtube.com/vi/T5-TQDp4XFc/maxresdefault.jpg",
