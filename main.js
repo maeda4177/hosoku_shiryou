@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "QRNjZxBxKjs",
+        "title": "【絶対みて】AI時代ホントの勝者はNTT!!",
+        "thumbnail": "https://img.youtube.com/vi/QRNjZxBxKjs/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/06"
+    },
+    {
         "id": "w6Op539flbw",
         "title": "【警告】キオクシア「利益率70%」の罠！ニュースを信じて高値掴みする「AI養分」の悲惨な末路",
         "thumbnail": "https://img.youtube.com/vi/w6Op539flbw/maxresdefault.jpg",
