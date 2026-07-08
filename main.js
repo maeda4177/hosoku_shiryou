@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "5Uxil9yB64w",
+        "title": "【警告】韓国ウォン暴落は始まりに過ぎない…",
+        "thumbnail": "https://img.youtube.com/vi/5Uxil9yB64w/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/08"
+    },
+    {
         "id": "QRNjZxBxKjs",
         "title": "【絶対みて】AI時代ホントの勝者はNTT!!",
         "thumbnail": "https://img.youtube.com/vi/QRNjZxBxKjs/maxresdefault.jpg",
