@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "n3CD4qsejtg",
+        "title": "【警告】韓国で自己破産が急増…日本株を襲う「次の危機」とは",
+        "thumbnail": "https://img.youtube.com/vi/n3CD4qsejtg/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/10"
+    },
+    {
         "id": "5Uxil9yB64w",
         "title": "【警告】韓国ウォン暴落は始まりに過ぎない…",
         "thumbnail": "https://img.youtube.com/vi/5Uxil9yB64w/maxresdefault.jpg",
