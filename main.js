@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "mHptyEF8dGk",
+        "title": "【衝撃】バフェットが日本株を爆買い…オルカン投資家が見落とす最大のチャンス",
+        "thumbnail": "https://img.youtube.com/vi/mHptyEF8dGk/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/13"
+    },
+    {
         "id": "n3CD4qsejtg",
         "title": "【警告】韓国で自己破産が急増…日本株を襲う「次の危機」とは",
         "thumbnail": "https://img.youtube.com/vi/n3CD4qsejtg/maxresdefault.jpg",
