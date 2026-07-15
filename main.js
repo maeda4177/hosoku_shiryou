@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "iafxWwRI4tI",
+        "title": "【危険】若者のNISAを真似すると老後破綻！プロが警告する「100マイナス年齢の法則」と最強の資産防衛術",
+        "thumbnail": "https://img.youtube.com/vi/iafxWwRI4tI/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/15"
+    },
+    {
         "id": "mHptyEF8dGk",
         "title": "【衝撃】バフェットが日本株を爆買い…オルカン投資家が見落とす最大のチャンス",
         "thumbnail": "https://img.youtube.com/vi/mHptyEF8dGk/maxresdefault.jpg",
