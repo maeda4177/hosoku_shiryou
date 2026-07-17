@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "RTi090SDNT4",
+        "title": "【警告】日本の血税が中国に奪われる！メディアが隠すアフリカ暴動の真実「合法的な借金侵略」と台湾有事の危機",
+        "thumbnail": "https://img.youtube.com/vi/RTi090SDNT4/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/17"
+    },
+    {
         "id": "iafxWwRI4tI",
         "title": "【危険】若者のNISAを真似すると老後破綻！プロが警告する「100マイナス年齢の法則」と最強の資産防衛術",
         "thumbnail": "https://img.youtube.com/vi/iafxWwRI4tI/maxresdefault.jpg",
