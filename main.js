@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "bIEsUYnogWM",
+        "title": "【警告】韓国崩壊…NISA口座を襲う「アジア金融危機」の正体",
+        "thumbnail": "https://img.youtube.com/vi/bIEsUYnogWM/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/22"
+    },
+    {
         "id": "Gp58OIc9aVM",
         "title": "【衝撃】日本最強の自動車産業は終わる？次の主役は「270兆円の宇宙市場」だった",
         "thumbnail": "https://img.youtube.com/vi/Gp58OIc9aVM/maxresdefault.jpg",
