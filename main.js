@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "7N5XQ-b2BYA",
+        "title": "【警告】張りぼて韓国…借金まみれの経済がついに限界へ",
+        "thumbnail": "https://img.youtube.com/vi/7N5XQ-b2BYA/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/24"
+    },
+    {
         "id": "bIEsUYnogWM",
         "title": "【警告】韓国崩壊…NISA口座を襲う「アジア金融危機」の正体",
         "thumbnail": "https://img.youtube.com/vi/bIEsUYnogWM/maxresdefault.jpg",
