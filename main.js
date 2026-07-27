@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "Znr3-qztNwk",
+        "title": "【警告】キオクシア株は買うな。全財産を失う「3兆円の罠」",
+        "thumbnail": "https://img.youtube.com/vi/Znr3-qztNwk/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/27"
+    },
+    {
         "id": "7N5XQ-b2BYA",
         "title": "【警告】張りぼて韓国…借金まみれの経済がついに限界へ",
         "thumbnail": "https://img.youtube.com/vi/7N5XQ-b2BYA/maxresdefault.jpg",
