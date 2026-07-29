@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "f7vrKMagK3o",
+        "title": "【NISA放置は危険】銀行に現金を置く人が「茹でガエル」になる理由…1500兆円プロが買い占める日本株の正体【経済解説】",
+        "thumbnail": "https://img.youtube.com/vi/f7vrKMagK3o/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/29"
+    },
+    {
         "id": "Znr3-qztNwk",
         "title": "【警告】キオクシア株は買うな。全財産を失う「3兆円の罠」",
         "thumbnail": "https://img.youtube.com/vi/Znr3-qztNwk/maxresdefault.jpg",
