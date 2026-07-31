@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "oIE5PJl_WdI",
+        "title": "エヌビディアが中韓を完全排除！日本企業4社が独占する「10兆円の国策」とパニック売りする素人の悲惨な末路",
+        "thumbnail": "https://img.youtube.com/vi/oIE5PJl_WdI/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/07/31"
+    },
+    {
         "id": "f7vrKMagK3o",
         "title": "【NISA放置は危険】銀行に現金を置く人が「茹でガエル」になる理由…1500兆円プロが買い占める日本株の正体【経済解説】",
         "thumbnail": "https://img.youtube.com/vi/f7vrKMagK3o/maxresdefault.jpg",
