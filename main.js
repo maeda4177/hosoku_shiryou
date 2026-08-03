@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "ntMa93EBmj4",
+        "title": "日本株やNISAをやっている人は今すぐ確認を。韓国が真似できない日本のチョークポイントと大損の罠",
+        "thumbnail": "https://img.youtube.com/vi/ntMa93EBmj4/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/03"
+    },
+    {
         "id": "oIE5PJl_WdI",
         "title": "エヌビディアが中韓を完全排除！日本企業4社が独占する「10兆円の国策」とパニック売りする素人の悲惨な末路",
         "thumbnail": "https://img.youtube.com/vi/oIE5PJl_WdI/maxresdefault.jpg",
