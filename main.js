@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "RrTYtbHwndU",
+        "title": "【大損注意】真面目に貯金するほど貧乏に...独歩崩壊最強の防衛策",
+        "thumbnail": "https://img.youtube.com/vi/RrTYtbHwndU/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/04"
+    },
+    {
         "id": "ntMa93EBmj4",
         "title": "日本株やNISAをやっている人は今すぐ確認を。韓国が真似できない日本のチョークポイントと大損の罠",
         "thumbnail": "https://img.youtube.com/vi/ntMa93EBmj4/maxresdefault.jpg",
