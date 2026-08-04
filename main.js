@@ -8,6 +8,14 @@ const videoData = [
         "publishedDate": "2026/08/04"
     },
     {
+        "id": "qFL9nrXXCP0",
+        "title": "韓国で起きた&quot;過去最多倒産&quot;は日本の未来です。円だけ持つ人から資産が消える理由",
+        "thumbnail": "https://img.youtube.com/vi/qFL9nrXXCP0/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/04"
+    },
+    {
         "id": "ntMa93EBmj4",
         "title": "日本株やNISAをやっている人は今すぐ確認を。韓国が真似できない日本のチョークポイントと大損の罠",
         "thumbnail": "https://img.youtube.com/vi/ntMa93EBmj4/maxresdefault.jpg",
