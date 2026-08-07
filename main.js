@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "RXBqn4oK_Kc",
+        "title": "【知らないと損】米国テック株への一極集中は危険？二極化時代に資産を守る「長期・分散・積立」",
+        "thumbnail": "https://img.youtube.com/vi/RXBqn4oK_Kc/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/07"
+    },
+    {
         "id": "RrTYtbHwndU",
         "title": "【大損注意】真面目に貯金するほど貧乏に...独歩崩壊最強の防衛策",
         "thumbnail": "https://img.youtube.com/vi/RrTYtbHwndU/maxresdefault.jpg",
