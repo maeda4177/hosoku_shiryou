@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "7MmqH5DwdVg",
+        "title": "【初心者必見】新NISAは今からでも遅くない！「口座を作ってほったらかすだけ」で老後のお金の不安をなくす超簡単ステップ",
+        "thumbnail": "https://img.youtube.com/vi/7MmqH5DwdVg/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/10"
+    },
+    {
         "id": "RXBqn4oK_Kc",
         "title": "【知らないと損】米国テック株への一極集中は危険？二極化時代に資産を守る「長期・分散・積立」",
         "thumbnail": "https://img.youtube.com/vi/RXBqn4oK_Kc/maxresdefault.jpg",
