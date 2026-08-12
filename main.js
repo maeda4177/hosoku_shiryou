@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "tl003Ew0xYI",
+        "title": "【初心者必見】貯金1000万円あれば老後は安心…は大間違い！インフレから大切なお金を守る「やさしい資産防衛術」",
+        "thumbnail": "https://img.youtube.com/vi/tl003Ew0xYI/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/12"
+    },
+    {
         "id": "7MmqH5DwdVg",
         "title": "【初心者必見】新NISAは今からでも遅くない！「口座を作ってほったらかすだけ」で老後のお金の不安をなくす超簡単ステップ",
         "thumbnail": "https://img.youtube.com/vi/7MmqH5DwdVg/maxresdefault.jpg",
