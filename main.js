@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "stGhCu-3_xk",
+        "title": "AI株に集中する人が危ない理由。米中ハイテク二極化で終わる「米国だけ買えば安心」の常識",
+        "thumbnail": "https://img.youtube.com/vi/stGhCu-3_xk/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/14"
+    },
+    {
         "id": "tl003Ew0xYI",
         "title": "【初心者必見】貯金1000万円あれば老後は安心…は大間違い！インフレから大切なお金を守る「やさしい資産防衛術」",
         "thumbnail": "https://img.youtube.com/vi/tl003Ew0xYI/maxresdefault.jpg",
