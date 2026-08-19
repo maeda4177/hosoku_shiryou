@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "6sTP1Sad0hY",
+        "title": "トヨタ株はなぜ下がった？好決算でも売られた「決算サプライズ」の正体",
+        "thumbnail": "https://img.youtube.com/vi/6sTP1Sad0hY/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/19"
+    },
+    {
         "id": "stGhCu-3_xk",
         "title": "AI株に集中する人が危ない理由。米中ハイテク二極化で終わる「米国だけ買えば安心」の常識",
         "thumbnail": "https://img.youtube.com/vi/stGhCu-3_xk/maxresdefault.jpg",
