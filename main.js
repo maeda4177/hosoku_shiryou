@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "a78Jrz2tqC8",
+        "title": "【プロの裏側】証券会社の嘘に騙されるな！9割が外資の養分になる理由と「東証ルールチェンジ」の最強戦略",
+        "thumbnail": "https://img.youtube.com/vi/a78Jrz2tqC8/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/21"
+    },
+    {
         "id": "6sTP1Sad0hY",
         "title": "トヨタ株はなぜ下がった？好決算でも売られた「決算サプライズ」の正体",
         "thumbnail": "https://img.youtube.com/vi/6sTP1Sad0hY/maxresdefault.jpg",
