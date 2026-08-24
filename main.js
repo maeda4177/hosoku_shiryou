@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "aRToTeooPOo",
+        "title": "【大損注意】「AI関連なら儲かる」は絶対やめて！9割の素人が全財産を失う&quot;疑似AI銘柄&quot;の罠とプロの投資戦略",
+        "thumbnail": "https://img.youtube.com/vi/aRToTeooPOo/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/24"
+    },
+    {
         "id": "a78Jrz2tqC8",
         "title": "【プロの裏側】証券会社の嘘に騙されるな！9割が外資の養分になる理由と「東証ルールチェンジ」の最強戦略",
         "thumbnail": "https://img.youtube.com/vi/a78Jrz2tqC8/maxresdefault.jpg",
