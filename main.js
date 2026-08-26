@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "qf4VYY-FrPU",
+        "title": "【老後破産】現金を放置する人は全財産を失います。アメリカが仕掛けた「金融抑圧」の真実と正しい投資の王道",
+        "thumbnail": "https://img.youtube.com/vi/qf4VYY-FrPU/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/26"
+    },
+    {
         "id": "aRToTeooPOo",
         "title": "【大損注意】「AI関連なら儲かる」は絶対やめて！9割の素人が全財産を失う&quot;疑似AI銘柄&quot;の罠とプロの投資戦略",
         "thumbnail": "https://img.youtube.com/vi/aRToTeooPOo/maxresdefault.jpg",
