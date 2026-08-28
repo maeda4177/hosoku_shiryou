@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "XnArR9r1R5s",
+        "title": "【警告】銀行預金は確実に溶けます。米国政府の禁じ手「サイレントQE」の恐怖と資産を奪う&quot;見えないインフレ強盗&quot;",
+        "thumbnail": "https://img.youtube.com/vi/XnArR9r1R5s/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/28"
+    },
+    {
         "id": "qf4VYY-FrPU",
         "title": "【老後破産】現金を放置する人は全財産を失います。アメリカが仕掛けた「金融抑圧」の真実と正しい投資の王道",
         "thumbnail": "https://img.youtube.com/vi/qf4VYY-FrPU/maxresdefault.jpg",
