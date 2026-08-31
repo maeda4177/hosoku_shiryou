@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "pDbcmHeRIn0",
+        "title": "NVIDIAはなぜ下がった？好決算でも売られた「本当の理由」を徹底解説",
+        "thumbnail": "https://img.youtube.com/vi/pDbcmHeRIn0/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/08/31"
+    },
+    {
         "id": "XnArR9r1R5s",
         "title": "【警告】銀行預金は確実に溶けます。米国政府の禁じ手「サイレントQE」の恐怖と資産を奪う&quot;見えないインフレ強盗&quot;",
         "thumbnail": "https://img.youtube.com/vi/XnArR9r1R5s/maxresdefault.jpg",
