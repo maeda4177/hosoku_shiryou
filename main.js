@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "MR7uqWc8Rrc",
+        "title": "【大損注意】銀行預金は「サイレント罰金」!? インフレで資産が消える罠と、暴落相場を無傷で乗り切る&quot;最強の盾&quot;の作り方",
+        "thumbnail": "https://img.youtube.com/vi/MR7uqWc8Rrc/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/09/02"
+    },
+    {
         "id": "pDbcmHeRIn0",
         "title": "NVIDIAはなぜ下がった？好決算でも売られた「本当の理由」を徹底解説",
         "thumbnail": "https://img.youtube.com/vi/pDbcmHeRIn0/maxresdefault.jpg",
