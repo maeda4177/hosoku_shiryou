@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "gznUY0CxeHE",
+        "title": "【大損注意】S&amp;P500を盲信する素人は全財産を失う！アメリカが隠す「見えない請求書」と金利上昇でハイテク株が崩壊する真実",
+        "thumbnail": "https://img.youtube.com/vi/gznUY0CxeHE/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/09/04"
+    },
+    {
         "id": "MR7uqWc8Rrc",
         "title": "【大損注意】銀行預金は「サイレント罰金」!? インフレで資産が消える罠と、暴落相場を無傷で乗り切る&quot;最強の盾&quot;の作り方",
         "thumbnail": "https://img.youtube.com/vi/MR7uqWc8Rrc/maxresdefault.jpg",
