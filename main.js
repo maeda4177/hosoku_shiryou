@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "jq_RBx1yp3k",
+        "title": "【大損注意】「有名大型株・高配当なら安心」は絶対やめて！素人が全財産を失う&quot;〇〇型バリュー株&quot;の罠とプロの投資戦略",
+        "thumbnail": "https://img.youtube.com/vi/jq_RBx1yp3k/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/09/09"
+    },
+    {
         "id": "gznUY0CxeHE",
         "title": "【大損注意】S&amp;P500を盲信する素人は全財産を失う！アメリカが隠す「見えない請求書」と金利上昇でハイテク株が崩壊する真実",
         "thumbnail": "https://img.youtube.com/vi/gznUY0CxeHE/maxresdefault.jpg",
