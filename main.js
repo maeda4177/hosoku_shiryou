@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "NQt6GOdzNMc",
+        "title": "【プロの裏側】シニアの退職金が狙われている!? SBG社債の高金利に隠された&quot;元本割れリスク&quot;と老後資金を守る防弾ポートフォリオ",
+        "thumbnail": "https://img.youtube.com/vi/NQt6GOdzNMc/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/09/11"
+    },
+    {
         "id": "jq_RBx1yp3k",
         "title": "【大損注意】「有名大型株・高配当なら安心」は絶対やめて！素人が全財産を失う&quot;〇〇型バリュー株&quot;の罠とプロの投資戦略",
         "thumbnail": "https://img.youtube.com/vi/jq_RBx1yp3k/maxresdefault.jpg",
