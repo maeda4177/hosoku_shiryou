@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "_xtF6e2ZYXc",
+        "title": "株だけ持つのは危険？プロがいま「金」を無視できない本当の理由",
+        "thumbnail": "https://img.youtube.com/vi/_xtF6e2ZYXc/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/09/16"
+    },
+    {
         "id": "SwM3Gt-ZzQ4",
         "title": "【警告】なぜあなたが売った翌日に株価は爆上げするのか？チャート信者が機関投資家の「カモ」になる残酷な理由と最強の投資戦略",
         "thumbnail": "https://img.youtube.com/vi/SwM3Gt-ZzQ4/maxresdefault.jpg",
