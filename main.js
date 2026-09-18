@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "xaP7GOXN2X4",
+        "title": "【警告】韓国経済より悲惨な罠！「米国株を持っていれば一生安心」と盲信する素人が外資のカモにされる残酷な真実",
+        "thumbnail": "https://img.youtube.com/vi/xaP7GOXN2X4/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/09/18"
+    },
+    {
         "id": "_xtF6e2ZYXc",
         "title": "株だけ持つのは危険？プロがいま「金」を無視できない本当の理由",
         "thumbnail": "https://img.youtube.com/vi/_xtF6e2ZYXc/maxresdefault.jpg",
