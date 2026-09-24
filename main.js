@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "PDMd3GkLj7U",
+        "title": "【40代50代必見】東京海上の株式分割に飛びつくな！バフェットが隠す「真の狙い」",
+        "thumbnail": "https://img.youtube.com/vi/PDMd3GkLj7U/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/09/24"
+    },
+    {
         "id": "vw0Lnd8jF9c",
         "title": "中国AIの“中身”はClaudeだった？1億件超のアクセスで判明したAI業界の裏側",
         "thumbnail": "https://img.youtube.com/vi/vw0Lnd8jF9c/maxresdefault.jpg",
