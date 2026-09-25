@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "Ah31qnm5yB0",
+        "title": "【プロの裏側】還元率ランキングは今すぐ捨てるべき！「冷凍庫パンク」で家計を溶かす素人の末路と、プロが選ぶ&quot;永久ストック防衛&quot;",
+        "thumbnail": "https://img.youtube.com/vi/Ah31qnm5yB0/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/09/25"
+    },
+    {
         "id": "PDMd3GkLj7U",
         "title": "【40代50代必見】東京海上の株式分割に飛びつくな！バフェットが隠す「真の狙い」",
         "thumbnail": "https://img.youtube.com/vi/PDMd3GkLj7U/maxresdefault.jpg",
