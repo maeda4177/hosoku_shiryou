@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "pMnt5JTcyjU",
+        "title": "株式分割に飛びつくな！百貨店株の裏に潜む「格差社会の罠」と真の買い時",
+        "thumbnail": "https://img.youtube.com/vi/pMnt5JTcyjU/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/09/30"
+    },
+    {
         "id": "Ah31qnm5yB0",
         "title": "【プロの裏側】還元率ランキングは今すぐ捨てるべき！「冷凍庫パンク」で家計を溶かす素人の末路と、プロが選ぶ&quot;永久ストック防衛&quot;",
         "thumbnail": "https://img.youtube.com/vi/Ah31qnm5yB0/maxresdefault.jpg",
