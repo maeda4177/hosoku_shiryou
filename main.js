@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "352k6QWYM18",
+        "title": "騙されるな。中国AIロボット「1兆円企業」の裏で進行する「サーバー上の幻影」の真実",
+        "thumbnail": "https://img.youtube.com/vi/352k6QWYM18/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/02"
+    },
+    {
         "id": "pMnt5JTcyjU",
         "title": "株式分割に飛びつくな！百貨店株の裏に潜む「格差社会の罠」と真の買い時",
         "thumbnail": "https://img.youtube.com/vi/pMnt5JTcyjU/maxresdefault.jpg",
