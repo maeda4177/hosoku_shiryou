@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "40kXsp8aWIk",
+        "title": "【中国経済の異変】GDP＋4.7％なのに不動産－19.9％…投資家が見落とす「数字の錯覚」",
+        "thumbnail": "https://img.youtube.com/vi/40kXsp8aWIk/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/03"
+    },
+    {
         "id": "352k6QWYM18",
         "title": "騙されるな。中国AIロボット「1兆円企業」の裏で進行する「サーバー上の幻影」の真実",
         "thumbnail": "https://img.youtube.com/vi/352k6QWYM18/maxresdefault.jpg",
