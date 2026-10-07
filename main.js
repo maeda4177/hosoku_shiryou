@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "0UkSIjR_C_A",
+        "title": "新NISAで「分散しているつもり」の人へ｜日本株＋米国株だけでは不十分な理由",
+        "thumbnail": "https://img.youtube.com/vi/0UkSIjR_C_A/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/07"
+    },
+    {
         "id": "40kXsp8aWIk",
         "title": "【中国経済の異変】GDP＋4.7％なのに不動産－19.9％…投資家が見落とす「数字の錯覚」",
         "thumbnail": "https://img.youtube.com/vi/40kXsp8aWIk/maxresdefault.jpg",
