@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "XVkwEELaAY8",
+        "title": "【警告】大企業の96％が被害？あなたの資産を狙う「透明な空き巣」の正体",
+        "thumbnail": "https://img.youtube.com/vi/XVkwEELaAY8/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/09"
+    },
+    {
         "id": "0UkSIjR_C_A",
         "title": "新NISAで「分散しているつもり」の人へ｜日本株＋米国株だけでは不十分な理由",
         "thumbnail": "https://img.youtube.com/vi/0UkSIjR_C_A/maxresdefault.jpg",
