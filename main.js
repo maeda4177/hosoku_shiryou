@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "8-Y7lZdmD6E",
+        "title": "【米国株に異変】S&amp;P500最高値の裏でプロは撤退？JPモルガンが警告する「レバレッジバブル」",
+        "thumbnail": "https://img.youtube.com/vi/8-Y7lZdmD6E/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/10"
+    },
+    {
         "id": "XVkwEELaAY8",
         "title": "【警告】大企業の96％が被害？あなたの資産を狙う「透明な空き巣」の正体",
         "thumbnail": "https://img.youtube.com/vi/XVkwEELaAY8/maxresdefault.jpg",
