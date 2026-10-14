@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "J4zaNV6RdDc",
+        "title": "【衝撃】ビットコインを持っていない人へ…世界の富裕層が密かに動き始めた本当の理由",
+        "thumbnail": "https://img.youtube.com/vi/J4zaNV6RdDc/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/14"
+    },
+    {
         "id": "8-Y7lZdmD6E",
         "title": "【米国株に異変】S&amp;P500最高値の裏でプロは撤退？JPモルガンが警告する「レバレッジバブル」",
         "thumbnail": "https://img.youtube.com/vi/8-Y7lZdmD6E/maxresdefault.jpg",
