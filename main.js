@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "d7TngH__sEA",
+        "title": "【米国株の異変】金利高でもAI株が上がる理由とは？中間選挙後に警戒すべき3つのリスク",
+        "thumbnail": "https://img.youtube.com/vi/d7TngH__sEA/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/16"
+    },
+    {
         "id": "J4zaNV6RdDc",
         "title": "【衝撃】ビットコインを持っていない人へ…世界の富裕層が密かに動き始めた本当の理由",
         "thumbnail": "https://img.youtube.com/vi/J4zaNV6RdDc/maxresdefault.jpg",
