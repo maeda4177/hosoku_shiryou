@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "uFolH6vSWh4",
+        "title": "経済成長しても大損する人の共通点！高値掴みを避ける3つの投資ルール",
+        "thumbnail": "https://img.youtube.com/vi/uFolH6vSWh4/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/17"
+    },
+    {
         "id": "d7TngH__sEA",
         "title": "【米国株の異変】金利高でもAI株が上がる理由とは？中間選挙後に警戒すべき3つのリスク",
         "thumbnail": "https://img.youtube.com/vi/d7TngH__sEA/maxresdefault.jpg",
