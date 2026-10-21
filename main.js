@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "HZ4qGyOntYg",
+        "title": "【AIバブル崩壊の危機？】新NISAで積立中の人が今すぐ確認すべきこと",
+        "thumbnail": "https://img.youtube.com/vi/HZ4qGyOntYg/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/21"
+    },
+    {
         "id": "uFolH6vSWh4",
         "title": "経済成長しても大損する人の共通点！高値掴みを避ける3つの投資ルール",
         "thumbnail": "https://img.youtube.com/vi/uFolH6vSWh4/maxresdefault.jpg",
