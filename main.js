@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "g6LxOdMJOLo",
+        "title": "AIバブルは来るの？投資初心者が知っておくべき「AI株」の罠",
+        "thumbnail": "https://img.youtube.com/vi/g6LxOdMJOLo/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/23"
+    },
+    {
         "id": "HZ4qGyOntYg",
         "title": "【AIバブル崩壊の危機？】新NISAで積立中の人が今すぐ確認すべきこと",
         "thumbnail": "https://img.youtube.com/vi/HZ4qGyOntYg/maxresdefault.jpg",
