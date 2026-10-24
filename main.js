@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "kv7q8KZmVlQ",
+        "title": "【韓国経済に異変】家計債務2,000兆ウォン！ウォン急落の裏で膨らむ「借金株投資」の時限爆弾",
+        "thumbnail": "https://img.youtube.com/vi/kv7q8KZmVlQ/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/24"
+    },
+    {
         "id": "g6LxOdMJOLo",
         "title": "AIバブルは来るの？投資初心者が知っておくべき「AI株」の罠",
         "thumbnail": "https://img.youtube.com/vi/g6LxOdMJOLo/maxresdefault.jpg",
