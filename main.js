@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "NZKbc7-p-RE",
+        "title": "【日本経済に異変】日銀が利上げしても円安・物価高が止まらない理由！知らぬ間に家計が苦しくなる仕組みとは？",
+        "thumbnail": "https://img.youtube.com/vi/NZKbc7-p-RE/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/28"
+    },
+    {
         "id": "kv7q8KZmVlQ",
         "title": "【韓国経済に異変】家計債務2,000兆ウォン！ウォン急落の裏で膨らむ「借金株投資」の時限爆弾",
         "thumbnail": "https://img.youtube.com/vi/kv7q8KZmVlQ/maxresdefault.jpg",
