@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "GtdB2engKas",
+        "title": "【中国の銀行に異変】預金が引き出せない！不動産不況と巨額の隠れ債務が招いた金融危機の裏側",
+        "thumbnail": "https://img.youtube.com/vi/GtdB2engKas/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/30"
+    },
+    {
         "id": "NZKbc7-p-RE",
         "title": "【日本経済に異変】日銀が利上げしても円安・物価高が止まらない理由！知らぬ間に家計が苦しくなる仕組みとは？",
         "thumbnail": "https://img.youtube.com/vi/NZKbc7-p-RE/maxresdefault.jpg",
