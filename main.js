@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "eZVUcmVhwyA",
+        "title": "【投資の常識が崩壊】なぜ金利が高いのに株価が上がる？AIマネーが変えた米国市場の新常識",
+        "thumbnail": "https://img.youtube.com/vi/eZVUcmVhwyA/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/10/31"
+    },
+    {
         "id": "GtdB2engKas",
         "title": "【中国の銀行に異変】預金が引き出せない！不動産不況と巨額の隠れ債務が招いた金融危機の裏側",
         "thumbnail": "https://img.youtube.com/vi/GtdB2engKas/maxresdefault.jpg",
