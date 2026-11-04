@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "Mgr8fN1DZis",
+        "title": "【イオン株に異変】スーパー事業126億円の赤字！人気の株主優待に隠された「意外な落とし穴」",
+        "thumbnail": "https://img.youtube.com/vi/Mgr8fN1DZis/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/11/04"
+    },
+    {
         "id": "eZVUcmVhwyA",
         "title": "【投資の常識が崩壊】なぜ金利が高いのに株価が上がる？AIマネーが変えた米国市場の新常識",
         "thumbnail": "https://img.youtube.com/vi/eZVUcmVhwyA/maxresdefault.jpg",
