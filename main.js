@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "i8qzZae6wII",
+        "title": "【日本企業も標的に】中国系AIハッカーが世界で猛威！Microsoftが明かした「取引先から侵入する」危険な手口",
+        "thumbnail": "https://img.youtube.com/vi/i8qzZae6wII/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/11/06"
+    },
+    {
         "id": "Mgr8fN1DZis",
         "title": "【イオン株に異変】スーパー事業126億円の赤字！人気の株主優待に隠された「意外な落とし穴」",
         "thumbnail": "https://img.youtube.com/vi/Mgr8fN1DZis/maxresdefault.jpg",
