@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "W1lmPQ3rZbU",
+        "title": "【米国債の意外な罠】利回り4〜5％でも安心できない？為替ヘッジで利益が減る仕組みと資産防衛術",
+        "thumbnail": "https://img.youtube.com/vi/W1lmPQ3rZbU/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/11/07"
+    },
+    {
         "id": "i8qzZae6wII",
         "title": "【日本企業も標的に】中国系AIハッカーが世界で猛威！Microsoftが明かした「取引先から侵入する」危険な手口",
         "thumbnail": "https://img.youtube.com/vi/i8qzZae6wII/maxresdefault.jpg",
