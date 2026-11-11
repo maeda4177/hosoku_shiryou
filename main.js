@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "X7bpB0c41Og",
+        "title": "【AI・半導体株で大損する人の共通点】暴落時に売るのは正解か？長期投資で失敗しないための鉄則",
+        "thumbnail": "https://img.youtube.com/vi/X7bpB0c41Og/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/11/11"
+    },
+    {
         "id": "W1lmPQ3rZbU",
         "title": "【米国債の意外な罠】利回り4〜5％でも安心できない？為替ヘッジで利益が減る仕組みと資産防衛術",
         "thumbnail": "https://img.youtube.com/vi/W1lmPQ3rZbU/maxresdefault.jpg",
