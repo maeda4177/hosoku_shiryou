@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "wDO_-dL2dHw",
+        "title": "【米中間選挙で市場激震】AI・半導体株が急落！日経平均を揺るがす米国データセンター規制の裏側",
+        "thumbnail": "https://img.youtube.com/vi/wDO_-dL2dHw/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/11/13"
+    },
+    {
         "id": "X7bpB0c41Og",
         "title": "【AI・半導体株で大損する人の共通点】暴落時に売るのは正解か？長期投資で失敗しないための鉄則",
         "thumbnail": "https://img.youtube.com/vi/X7bpB0c41Og/maxresdefault.jpg",
