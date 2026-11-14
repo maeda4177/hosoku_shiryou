@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "eLGb-rTkJ9I",
+        "title": "【東宝の稼ぐ力が凄い】ゴジラが全米興収1位！ハリウッドと何が違う？日本のコンテンツ産業が世界で稼ぐ仕組み",
+        "thumbnail": "https://img.youtube.com/vi/eLGb-rTkJ9I/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/11/14"
+    },
+    {
         "id": "wDO_-dL2dHw",
         "title": "【米中間選挙で市場激震】AI・半導体株が急落！日経平均を揺るがす米国データセンター規制の裏側",
         "thumbnail": "https://img.youtube.com/vi/wDO_-dL2dHw/maxresdefault.jpg",
