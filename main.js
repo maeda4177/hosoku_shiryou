@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "oPmyuENncyo",
+        "title": "【中国スパイ疑惑が波紋】NVIDIAフアンCEOが突然辞任！米中対立でAI・半導体株に何が起こる？",
+        "thumbnail": "https://img.youtube.com/vi/oPmyuENncyo/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/11/18"
+    },
+    {
         "id": "eLGb-rTkJ9I",
         "title": "【東宝の稼ぐ力が凄い】ゴジラが全米興収1位！ハリウッドと何が違う？日本のコンテンツ産業が世界で稼ぐ仕組み",
         "thumbnail": "https://img.youtube.com/vi/eLGb-rTkJ9I/maxresdefault.jpg",
