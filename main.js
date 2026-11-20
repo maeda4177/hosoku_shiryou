@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "JtBKwuCGYYI",
+        "title": "【都心タワマン神話に亀裂】売れ残り急増の衝撃！金利上昇と投機マネーの変化で何が起きている？",
+        "thumbnail": "https://img.youtube.com/vi/JtBKwuCGYYI/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/11/20"
+    },
+    {
         "id": "oPmyuENncyo",
         "title": "【中国スパイ疑惑が波紋】NVIDIAフアンCEOが突然辞任！米中対立でAI・半導体株に何が起こる？",
         "thumbnail": "https://img.youtube.com/vi/oPmyuENncyo/maxresdefault.jpg",
