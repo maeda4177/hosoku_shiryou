@@ -1,5 +1,13 @@
 const videoData = [
     {
+        "id": "VYGKllaDMRc",
+        "title": "【楽天証券に激震】最大1125万口座で情報漏えいの可能性！あなたの資産は大丈夫？今すぐ確認すべき3つの防衛策",
+        "thumbnail": "https://img.youtube.com/vi/VYGKllaDMRc/maxresdefault.jpg",
+        "description": "",
+        "downloadUrl": "#",
+        "publishedDate": "2026/11/21"
+    },
+    {
         "id": "JtBKwuCGYYI",
         "title": "【都心タワマン神話に亀裂】売れ残り急増の衝撃！金利上昇と投機マネーの変化で何が起きている？",
         "thumbnail": "https://img.youtube.com/vi/JtBKwuCGYYI/maxresdefault.jpg",
